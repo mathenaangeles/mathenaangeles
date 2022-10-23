@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathenaangeles/)
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mathenaangeles?country.x=PH&locale.x=en_US)
 
-Hello! :wave: I am a **software engineer** and **UI/UX designer** who specializes in web and mobile development, as well as machine learning and artificial intelligence. :robot: In my spare time, I like to participate in programming competitions and travel the world. :earth_asia: 
+Hello! :wave: I am a **software engineer** and **UI/UX designer** who specializes in web and mobile development, as well as machine learning and artificial intelligence. :robot: In my spare time, I like to participate in programming competitions and travel the world. :earth_asia: My drink of choice is a *code* brew. :coffee:
 
 ## :toolbox: Languages & Tools
 
